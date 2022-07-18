@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sanel306
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Erick Shayo with Github username: @sanel306
+- 👀 I’m interested in Machine Learning, python and Javascript
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything about tech and development
 - 📫 How to reach me ...
+    gmail - erickshayo306@gmail.com
 -
 
 <!---
