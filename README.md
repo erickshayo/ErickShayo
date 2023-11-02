@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erick Shayo with Github username: @sanel306
+- 👋 Hi, I’m Erick Shayo with Github username: @erickshayo
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything about tech and development
 - 📫 How to reach me 
