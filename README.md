@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, flutter**
 
-- 📫 How to reach me **erickshayo306#gmail.com**
+- 📫 How to reach me **erickshayo306@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
