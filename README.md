@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erick Shayo</h1>
-<h3 align="center">A passionate frontend developer from Tanzania</h3>
+<h3 align="center">A passionate Software developer from Tanzania</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Game Development**
 
-- 💬 Ask me about **react, flutter**
+- 💬 Ask me about **Unity**
 
 - 📫 How to reach me **erickshayo306@gmail.com**
 
